@@ -1,6 +1,6 @@
 # ML_Projects_1
 
-The list of projects:
+The list of projects is mentioned below. There projets were worked on in a chronological fashion, hence, the initial few projects on the list happen to be starter projects.
 
 0. Titanic Case Study: 
    It is a starter data set for classification problems. The data represents information pertaining to the travelers who went      on the fateful journey on the RMS Titanic on April 1912.
