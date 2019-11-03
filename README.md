@@ -22,3 +22,7 @@ The list of projects is mentioned below. There projets were worked on in a chron
 
 5. Loan Prediction:
    The task is to predict if a loan will get approved or not based on a set of  11 parameters. The set of parameters include      demographic varibles such as education level, employment and gender.
+   
+   
+6. Forecasting Trade Inventories
+   The objective is to predict the trade inventories at a future date for US. This analysis is based off a live dataset. The     analytic objective is to explore Seasonal-ARIMA method using both the classical and modern (Grid Search) approaches. The      goal as always is to get the best model possible
