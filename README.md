@@ -35,8 +35,3 @@ The list of projects is mentioned below. There projets were worked on in a chron
  8. Sentiment Analysis of Text (ph)
  
  
- 9. Text Analytics 2 (ph)
- 
- 
- 10. Credit Card Fraud Detection (ph)
-      an unbalanced classification exercise
