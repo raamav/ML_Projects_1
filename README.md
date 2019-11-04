@@ -25,7 +25,7 @@ The list of projects is mentioned below. There projets were worked on in a chron
    
    
 6. Forecasting Trade Inventories (ph)
-   The objective is to predict the trade inventories at a future date for US. This analysis is based off a live dataset. The     analytic objective is to explore Seasonal-ARIMA method using both the classical and modern (Grid Search) approaches. The      goal as always is to get the best model possible
+   The objective is to predict the trade inventories at a future date for US. This analysis is based off a live dataset. The     analytic objective is to explore Seasonal-ARIMA method using both the classical and modern (Grid Search) approaches. The      goal as always is to get the best forecast possible
    
    
 7. Restaurant Visit (Traffic) Forecasting (ph)
