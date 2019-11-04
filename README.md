@@ -24,14 +24,10 @@ The list of projects is mentioned below. There projets were worked on in a chron
    The task is to predict if a loan will get approved or not based on a set of  11 parameters. The set of parameters include      demographic varibles such as education level, employment and gender.
    
    
-6. Forecasting Trade Inventories (ph)
-   The objective is to predict the trade inventories at a future date for US. This analysis is based off a live dataset. The     analytic objective is to explore Seasonal-ARIMA method using both the classical and modern (Grid Search) approaches. The      goal as always is to get the best forecast possible
+6. Forecasting Atmospheric CO2
+   For this case-study, we are utilizing the CO2 concentrations at the Mauna Lao observatory in Hawaii. The CO2                concentrations are recorded in ppm since the last 1950s (for the last 60+ years).
    
+   The goal is to forecast the monthly average CO2 concentration of 2018 and 2019. The CO2 concentrations at Sepetember 2018    and Sepetember 2019 were 405.51ppm and 408.54ppm respectively. So, for these months, we'll see if we are able to get        forecasts that are reasonably accurate.
    
-7. Restaurant Visit (Traffic) Forecasting (ph)
-   The objective is to predict Restaurent visits using a combinatiobn of time-series and exogenous (external variables). An     example of external variable is whether its a weekend or a weekday, or it is a "holiday". It mandates the use of SARIMAX      and other approaches to integrate internal and external data to make the most accurate predictions.
-   
-   
- 8. Sentiment Analysis of Text (ph)
- 
+
  
