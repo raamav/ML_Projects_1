@@ -1,7 +1,5 @@
-# ML_Projects_1
-
-The list of projects is mentioned below. There projets were worked on in a chronological fashion, hence, the initial few projects on the list happen to be starter projects.
-
+# LIST OF PROJECTS
+The list of projects is mentioned below. These projects are across classification, clustering and time-series forecasting 
 
 1. Digit Recognizer (MNIST): 
    The MNIST is probably the best known image-classification dataset. The MNIST is a large public database comprising about        ~70,000 handwritten digits. The task then is to use machine learning approaches to detect these digits.
