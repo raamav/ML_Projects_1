@@ -2,10 +2,6 @@
 
 The list of projects is mentioned below. There projets were worked on in a chronological fashion, hence, the initial few projects on the list happen to be starter projects.
 
-0. Titanic Case Study: 
-   It is a starter data set for classification problems. The data represents information pertaining to the travelers who went      on the fateful journey on the RMS Titanic on April 1912.
-   The analysis seeks to understand what sorts of people were likely to survive. In particular, the tools of machine learning      are used to predict which passengers survived the tragedy.
-
 
 1. Digit Recognizer (MNIST): 
    The MNIST is probably the best known image-classification dataset. The MNIST is a large public database comprising about        ~70,000 handwritten digits. The task then is to use machine learning approaches to detect these digits.
