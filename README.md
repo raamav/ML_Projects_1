@@ -28,3 +28,9 @@ The list of projects is mentioned below. These projects are across classificatio
    Being able to predict restaurant visits accuractly is a neat application of forecasting techniques. In this case, we have    the data for visits for a restaurant on a daily basis for 1+ years. From an analytic standpoint, a more nuanced version      of forecasting will be attempted, one which incorporates exogenous variables.
 
    This data is an adapted version of a recently concluded competition on Kaggle
+   
+   
+8. Movie Reviews (Text Classification) 
+   In this example, are utilizing a data-set of about 2000 movie reviews. These reviews are full length reviews that have      been classified as being both positive and negative. 
+   
+   We were able to buid a model that is able to categorize to 85% accuracy on test data.
