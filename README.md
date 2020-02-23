@@ -34,3 +34,7 @@ The list of projects is mentioned below. These projects are across classificatio
    In this example, are utilizing a data-set of about 2000 movie reviews. These reviews are full length reviews that have      been classified as being both positive and negative. 
    
    We were able to buid a model that is able to categorize to 85% accuracy on test data.
+   
+   
+9. Real or Not: Identifying Tweets Pertaining to Public Emergencies Using NLP
+   
